@@ -92,16 +92,6 @@ console.log(Snehal.getCurrentFocus());
 
 ---
 
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunalBari5557&theme=react&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak Stats" />
-</div>
-
----
-
-
-
 ## 💼 Experience Highlights
 
 <div align="center">
