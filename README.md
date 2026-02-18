@@ -122,8 +122,11 @@ console.log(Snehal.getCurrentFocus());
 ## 💡 Quote of the Day
 
 <div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 💻 Quote of the Day
+
+> **"Talk is cheap. Show me the code."**  
+> — *Linus Torvalds*
 
 </div>
 
@@ -131,9 +134,10 @@ console.log(Snehal.getCurrentFocus());
 
 ## 😄 Fun Fact
 
-> **When I first heard about JavaScript and Java, I thought they were the same language!**
-> 
-> Now I know better... they're about as similar as "car" and "carpet"! 🚗 vs 🧶
+> **My code got shorter when I switched to Python.**
+>
+> My confidence got longer. 🐍
+
 
 ---
 
@@ -143,6 +147,6 @@ console.log(Snehal.getCurrentFocus());
 
 **Thanks for visiting! Let's connect and build something amazing together! 🚀**
 
-![Profile Views](https://komarev.com/ghpvc/?username=kunalBari5557&color=00D9FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=abnave-snehal&color=00D9FF&style=for-the-badge)
 
 </div>
