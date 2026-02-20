@@ -15,7 +15,7 @@ class Developer {
   name: string = "Snehal Abnave";
   location: string = "Pune, Maharashtra 📍";
   company: string = "SeenIT PTY LTD";
-  role: string = "Frontend Developer";
+  role: string = "Fullstack Developer";
   
   skills = {
     frontend: ["React", "HTML", "JavaScript", "CSS(Bootstrap,Tailwind Css)"],
@@ -23,7 +23,7 @@ class Developer {
     version control: ["Git"]
   };
   
-  hobbies: string[] = ["🎵 Music", "🎬 Movies", "👩‍🍳 Cooking"];
+  hobbies: string[] = ["🎵 Music", "✈️ Traveling", "👩‍🍳 Cooking"];
   
   getCurrentFocus(): string {
     return "Building scalable web applications & mastering system design";
@@ -78,7 +78,6 @@ console.log(Snehal.getCurrentFocus());
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
